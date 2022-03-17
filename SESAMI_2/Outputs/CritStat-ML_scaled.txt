@@ -1,0 +1,6 @@
+Section	#Str	Dev<5	Dev>5
+Rejected	76	73	3
+Selected	254	47	207
+Low error removal rate: 60
+Max error: Name XECJUK LCD 4.6 TrueSA 527 Error 18.52
+Mean of abslute error: 1.20

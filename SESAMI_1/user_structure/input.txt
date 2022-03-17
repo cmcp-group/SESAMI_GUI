@@ -1,0 +1,14 @@
+#Name
+user_isotherm
+#path to isotherm file
+Default
+#path to output directory
+Default
+#ESW manual
+Default
+#Consistency 1 manual
+Default
+#R2_min	R2_max	minimum line length
+Default	Default	Default
+#path to the directory containing executable file
+Default

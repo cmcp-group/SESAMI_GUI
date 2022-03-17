@@ -1,0 +1,6 @@
+Bad case 1: empty csv
+Bad case 2: completely incorrect csv (column names, number of columns, types of variables)
+Bad case 3: missing data
+Bad case 4: missing column names
+Bad case 5: have a string in one of the columns [impasta]
+Bad case 6: not enough data at low pressures

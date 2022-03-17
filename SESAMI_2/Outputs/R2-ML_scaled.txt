@@ -1,0 +1,7 @@
+# structures in final set = 264
+The training R2 = 0.973
+The training RMSE = 225.436
+The training MAE = 12.788
+The test R2 = 0.934
+The test RMSE = 319.823
+The test MAE = 15.022

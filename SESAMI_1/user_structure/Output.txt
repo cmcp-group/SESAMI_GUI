@@ -1,0 +1,18 @@
+user_isotherm
+
+BET data
+LowIndex	HighIndex	LowPressure	HighPressure	Area	Nm	C	Con1	Con2	Con3	Con4	R2
+34	43	3500.0000000000	7500.0000000000	2430.909664	28.42285	2.01078e+02	Yes	Yes	Yes	Yes	0.9996
+
+Consistency 1 limit data
+Index	Pressure
+44	8500.0000000000
+
+ESW minima data
+
+Index	Loading	Pressure	Area
+27	19.198	900.0000000000	1641.898
+
+BET-ESW data
+LowIndex	HighIndex	LowPressure	HighPressure	Area	Nm	C	Con1	Con2	Con3	Con4	R2
+21	30	600.0000000000	1000.0000000000	2346.734868	27.43865	2.48130e+02	Yes	Yes	No	Yes	0.9985
